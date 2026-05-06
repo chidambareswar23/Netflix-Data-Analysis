@@ -57,27 +57,6 @@ Trend Analysis (Linear Regression)
 Insights & Conclusions
 ```
 
----
-
-```
-## 📸 Screenshots
-
-### 🔹 Genre Distribution
-
-![Genre](screenshots/genre.png)
-
-### 🔹 Vote Category Distribution
-
-![Votes](screenshots/votes.png)
-
-### 🔹 Release Year Distribution
-
-![Year](screenshots/year.png)
-
-> 📌 *Add screenshots inside a `/screenshots` folder in your repository.*
-```
-
----
 
 ## 📊 Key Analysis Performed
 
