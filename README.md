@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-green)
-![License](https://img.shields.io/badge/License-MIT-red)
+
 
 ---
 
@@ -59,7 +59,8 @@ Insights & Conclusions
 
 ---
 
-```## 📸 Screenshots
+```
+## 📸 Screenshots
 
 ### 🔹 Genre Distribution
 
